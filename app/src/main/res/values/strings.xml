@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Submission</string>
+    <string name="txt_main_splash">Ini adalah Splash Screen!</string>
+    <string name="about">About</string>
+</resources>
